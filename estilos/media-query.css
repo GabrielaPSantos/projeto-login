@@ -19,7 +19,7 @@
     }
 
     section#login > div#imagem {
-        float: left;
+        float: left;    /* float = posição */
         width: 30%;
         height: 100%;
     }
